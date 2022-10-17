@@ -1,0 +1,88 @@
+Splatoon 3 Modes
+    Turf War
+        Mechanics
+        How to Win
+    Ranked Modes
+        Splat Zones
+            Mechanics
+            How to Win
+        Rainmaker
+            Mechanics
+            How to Win
+        Tower Control
+            Mechanics
+            How to Win
+        Clam Blitz
+            Mechanics
+            How to Win
+        Ranked System
+            Ranks
+            Anarchy (Open)
+            Anarchy (Series)
+            Rank-up Battles
+    Salmon Run
+        Mechanics
+            Egg Throw Mechanic
+                Egg Throw
+                Egg Cannon
+            Enemies
+                Smallfry
+                Chum
+                Cohock
+                flying dude
+            Bosses
+                Steelhead
+                Flyfish
+                Scrapper
+                Steel Eel
+                Stinger
+                Maws
+                Drizzler
+                Fish Stick
+                Flipper-Flopper
+                Big Shot
+                Slammin' Lid
+                Goldie
+                Griller (Redirect)
+                Mudmouth (Redirect)
+            Special Waves
+                Low Tide
+                Medium Tide
+                High Tide
+                Cohock Charge
+                    Low Tide
+                The Griller
+                    Medium Tide
+                The Mothership
+                    Low Tide
+                    Medium Tide
+                    High Tide
+                Mudmouth Eruptions
+                    Medium Tide
+                    High Tide
+                Fog
+                    Low Tide
+                    Medium Tide
+                    High Tide
+                Goldie Seeking
+                    Medium Tide
+                    High Tide
+                Giant Tornado
+                    Low Tide
+                Rush
+                    Medium Tide
+        Weapon System
+            Random Weapons
+                Wild Card Rotations
+                    Green Wild Card
+                    Gold Wild Card
+                Grizzco Weapons
+                    Grizzco Blaster
+                    Grizzco Brella
+                    Grizzco Charger
+                    Grizzco Slosher
+                    Grizzco Stringer
+        Ranking up
+            Rank Levels
+            Points for Winning
+            Maps (Redirect)
