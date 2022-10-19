@@ -1,4 +1,4 @@
-Splatoon 3 Modes
+Splatoon 3 Modes (1)
     Turf War
         Mechanics
         How to Win
@@ -85,4 +85,342 @@ Splatoon 3 Modes
         Ranking up
             Rank Levels
             Points for Winning
-            Maps (Redirect)
+        Maps (Redirect)
+        Xtrawave
+            Mechanics
+                Egg Cannon (Redirect)
+            Rewards
+                Scales
+                Use rewards (redirect > shop)
+        Rewards
+            Point System
+            Possible rewards
+                Gear
+                    Monthly Gear
+                    Other
+                Food Tickets
+                Drink Tickets
+                Money
+                Ability Chunks
+            Shop
+                Unlock System
+                Suits
+                Locker Decor
+                Banners
+                Stickers
+    Splatfests
+        Teams
+            Past Splatfests
+        Modes
+            Splatfest Battle (Normal)
+            Splatfest Battle (Pro)
+            Tri-color Turf War
+        Clout
+            How to get
+                Team Synergy
+                Special Battles
+                    10x
+                    100x
+                    333x
+        Stages (not maps)
+            Splatfest Sneak Peek
+            First Half
+            Second Half
+        Results
+            Winner
+                Sneak Peek
+                Popular Vote
+                Clout (Normal)
+                Clout (Pro)
+            Super Sea Snails
+                Rank
+Splatoon 3 Weapons (2)
+    Termonology
+        Kits
+            Vanilla
+        Slayer
+        Support
+        Anchor
+        'Main'
+    Main Weapons
+        Shooters
+            Short-ranged
+                Splattershot Jr.
+                Splattershot
+                    Vanilla Splattershot
+                    Hero Shot Replica
+                Aerospray
+                Sploosh-o-matic
+                Splash-o-matic
+                N-ZAP
+                .52 Gal
+            Long-ranged
+                Splattershot Pro
+                .96 Gal
+                Jet Squelcher
+            Semi-automatics
+                L-3 Nozzlenose
+                H-3 Nozzlenose
+                Squeezer
+        Blasters
+            OHKO Blasters
+                Luna Blaster
+                Vanilla Blaster
+                Range Blaster
+            Quick Blasters
+                Rapid Blaster
+                Rapid Blaster Pro
+                Clash Blaster
+        Rollers
+            Quick Rollers
+                Carbon Roller
+                Splat Roller
+            Strong Roller
+                Dynamo Roller
+                Flingza Roller
+        Brushes
+            Inkbrush
+            Octobrush
+        Chargers
+            Snipers
+                Splat Charger
+                Splatterscope
+                E-Liter 4k
+                E-Liter 4k Scope
+            Quick Chargers
+                Squiffer
+                Goo Tuber
+                Bamboozler
+        Sloshers
+            Quick Sloshers
+                Vanilla Slosher
+                Tri-Slosher
+            Ranged Sloshers
+                Sloshing Machine
+                Bloblobber
+                Explosher
+        Splatlings
+            Powerful Splatlings
+                Heavy Splatling
+                Hydra Splatling
+            Mobile Splatlings
+                Mini Splatling
+                Ballpoint Splatling
+                Nautilus
+        Dualies
+            Quick Dualies
+                Splat Dualies
+                Dapple Dualies
+                Tetra Dualies
+            Ranged Dualies
+                Glooga Dualies
+                Dualie Squelchers
+        Brellas
+            Splat Brella
+            Undercover Brella
+            Tenta Brella
+        Splatanas
+            Splatana Wiper
+            Splatana Stamper
+        Stringers
+            Tri-Stringer
+            REEF-LUX
+    Sub Weapons
+        Bombs
+            Splat Bomb
+            Suction Bomb
+            Curling Bomb
+            Fizzy Bomb
+            Autobomb
+            Torpedo
+        Utility
+            Sprinkler
+            Splash Wall
+            Squid Beakon
+            Point Sensor
+            Ink Mine
+            Toxic Mist
+            Angle Shooter
+    Special Weapons
+        New Specials
+            Trizooka
+            Big Bubbler
+            Zipcaster
+            Wave Breaker
+            Ink Vac
+            Killer Wail 5.1
+            Crab Tank
+            Reefslider
+            Triple Inkstrike
+            Tacticooler
+        Returning Specials
+            Inkjet
+            Ultra Stamp
+            Tenta Missles
+            Booyah Bomb
+            Ink Storm
+Splatoon 3 Mechanics (3)
+    Basic Mechanics
+        Form Differences
+            Inkling/Octoling Form
+                Shooting
+            Swim Form
+                Recovering Ink
+                Squid Roll
+                Squid Surge
+            Tips and tricks
+        Boosts
+            Gear boosts (redirect)
+            Tickets
+                Food Tickets
+                    Kinds
+                        XP
+                        Money
+                    Levels
+                        1.5x
+                        2x
+                        Team boosts
+                Drink Tickets
+                    Ink Saver Main
+                    Ink Saver Sub
+                    Ink Recovery Up
+                    Run Speed Up
+                    Swim Speed Up
+                    Enhance Ability
+                    Ink Resistance Up
+                    Bomb Defense Up
+                    Special Charge Up
+                    Sub Power Up
+                    Special Power Up
+                    Quick Super Jump
+                    Quick Respawn
+    HUD
+        4v4
+            Players
+                Leading Team
+            Special Gauge
+            Score
+                Timer
+                Ranked Score
+                Top Bar Size
+            Ink Tank
+            Splat Log
+                Wipeout effect
+            Reticle
+        Salmon Run
+            Players
+            Specials
+            Score
+                Timer
+                    10 Seconds Left (Color)
+                Quota
+            Ink Tank
+            HUD effects
+    Maps
+        Map Rotation
+            4v4
+            Salmon Run
+        4v4
+            New Stages
+                Eeltail Alley
+                Hagglefish Market
+                Undertow Spillway
+                Mincemeat Metalworks
+                Scorch Gorge
+            Returning Stages
+                Hammerhead Bridge
+                Museum D'Alfonsino
+                Mahi-Mahi Resort
+                Inkblot Art Academy
+                Wahoo World
+                Sturgeon Shipyard
+                Makomart
+        Salmon Run
+            Spawning Grounds
+            Sockeye Station
+            Gone Fission Hydroplant
+Splatoon 3 Gear System (4)
+    Abilities
+        Gear Points
+            Main Ability
+            Sub Ability
+        'Global' Abilities
+            Ink Saver Main
+            Ink Saver Sub
+            Ink Recovery Up
+            Run Speed Up
+            Swim Speed Up
+            Enhance Ability
+            Ink Resistance Up
+            Bomb Defense Up
+            Special Charge Up
+            Sub Power Up
+            Special Power Up
+            Quick Super Jump
+            Quick Respawn
+        Gear-specific Abilities
+            Headgear
+                Opening Gambit
+                Last-ditch Effort
+                Tenacity
+                Comeback
+            Clothing
+                Ninja Squid
+                Haunt
+                Thermal Ink
+                Respawn Punisher
+                Ability Doubler
+            Shoes
+                Stealth Jump
+                Object Shredder
+                Drop Roller
+    How to Get Gear
+        Shops
+            [headgear]
+            [clothing]
+            [shoes]
+        Splatnet 3 (redirect)
+        Salmon Run (redirect)
+    Chunks and Customization
+        Getting Chunks
+            Scrubbing
+            Salmon Run (redirect)
+            Overwriting Abilities
+        Using Chunks 
+            First Slot
+            Second Slot
+            Third Slot
+            Main Ability
+            Gear Specific Abilities
+Splatnet 3 (5)
+    Statistics
+        History
+            Weapons
+            Stages
+            Splatfest
+                Upcoming Splatfest
+                Ranks (Redirect to 2)
+            Badges
+            Battles
+        Freshest Fits
+            Contains redirect to gear
+        Catalog
+    Exclusive Utility
+        Schedule
+            Longer future sight than the game
+        Splatnet Shop
+        Wandercrust
+    Miscellaneous
+        Replay Queueing
+        Album Viewing
+
+Dependencies/Redirects
+1-3
+3-4
+4-1
+4-5
+5-2
+5-4
+
+Ordering:
+2, 1, 3, 4, 5
