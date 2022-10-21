@@ -139,6 +139,7 @@ Splatoon 3 Weapons (2)
         Kits
             Vanilla
         Slayer
+        Skirmisher
         Support
         Anchor
         'Main'
